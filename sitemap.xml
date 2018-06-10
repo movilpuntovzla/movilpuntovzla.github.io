@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://movilpunto.com/index.html</loc>
-    <lastmod>2018-06-09</lastmod>
+    <lastmod>2018-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -10,7 +10,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://movilpunto.com/clave.html</loc>
+    <loc>http://movilpunto.com/recibo.html</loc>
     <lastmod>2018-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -37,8 +37,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://movilpunto.com/recibo.html</loc>
-    <lastmod>2018-06-09</lastmod>
+    <loc>http://movilpunto.com/clave.html</loc>
+    <lastmod>2018-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -57,6 +57,15 @@
   <url>
     <loc>http://movilpunto.com/procesando.html</loc>
     <lastmod>2018-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://movilpunto.com/images/movilpunto%20logo2.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://movilpunto.com/cambiar-a-bitcoin.html</loc>
+    <lastmod>2018-06-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>

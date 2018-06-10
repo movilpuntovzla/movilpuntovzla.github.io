@@ -1,55 +1,69 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="movilpunto.com" resolutions="1x" timestamp="1528573461691">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="movilpunto.com" resolutions="1x" timestamp="1528636105419">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3962846990" ref="index"/>
+    <file name="clave.css" crc="369946583" ref="clave"/>
     <file name="monto.css" crc="4272143938" ref="monto"/>
+    <file name="index.css" crc="4064897893" ref="index"/>
+    <file name="cambiar-a-bitcoin.css" crc="4061691971" ref="cambiar-a-bitcoin"/>
     <file name="tipo-de-cuenta.css" crc="101799137" ref="tipo-de-cuenta"/>
-    <file name="clave.css" crc="3802049795" ref="clave"/>
-    <file name="c_dula.css" crc="485689098" ref="cédula"/>
+    <file name="c_dula.css" crc="4117226810" ref="cédula"/>
     <file name="recibo.css" crc="3814598920" ref="recibo"/>
     <file name="procesando.css" crc="33127122" ref="procesando"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:clave:cédula:monto:recibo:tipo-de-cuenta:procesando"/>
-    <file name="museutils.js" crc="3803043152" ref="index:clave:cédula:monto:recibo:tipo-de-cuenta:procesando"/>
-    <file name="whatinput.js" crc="86476730" ref="index:clave:cédula:monto:recibo:tipo-de-cuenta:procesando"/>
-    <file name="museconfig.js" crc="380897831" ref="index:clave:cédula:monto:recibo:tipo-de-cuenta:procesando"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:clave:cédula:monto:recibo:tipo-de-cuenta:procesando"/>
-    <file name="require.js" crc="4157109226" ref="index:clave:cédula:monto:recibo:tipo-de-cuenta:procesando"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="clave:cédula:monto:recibo:tipo-de-cuenta"/>
-    <file name="webpro.js" crc="242022427" ref="clave:cédula:monto"/>
-    <file name="musewpslideshow.js" crc="457073769" ref="clave:cédula:monto"/>
-    <file name="jquery.museoverlay.js" crc="483674903" ref="clave:cédula:monto"/>
-    <file name="touchswipe.js" crc="4066113679" ref="clave:cédula:monto"/>
-    <file name="html5shiv.js" crc="4241844378" ref="clave:index:cédula:monto:recibo:tipo-de-cuenta:procesando"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="clave:index:cédula:monto:recibo:tipo-de-cuenta:procesando:cambiar-a-bitcoin"/>
+    <file name="museutils.js" crc="3803043152" ref="clave:index:cédula:monto:recibo:tipo-de-cuenta:procesando:cambiar-a-bitcoin"/>
+    <file name="whatinput.js" crc="86476730" ref="clave:index:cédula:monto:recibo:tipo-de-cuenta:procesando:cambiar-a-bitcoin"/>
+    <file name="museconfig.js" crc="380897831" ref="clave:index:cédula:monto:recibo:tipo-de-cuenta:procesando:cambiar-a-bitcoin"/>
+    <file name="jquery.watch.js" crc="99325471" ref="clave:index:cédula:monto:recibo:tipo-de-cuenta:procesando:cambiar-a-bitcoin"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="clave:cédula:monto:recibo:tipo-de-cuenta:cambiar-a-bitcoin"/>
+    <file name="webpro.js" crc="242022427" ref="clave:cédula:monto:cambiar-a-bitcoin"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="clave:cédula:monto:cambiar-a-bitcoin"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="clave:cédula:monto:cambiar-a-bitcoin"/>
+    <file name="touchswipe.js" crc="4066113679" ref="clave:cédula:monto:cambiar-a-bitcoin"/>
+    <file name="html5shiv.js" crc="4241844378" ref="clave:index:cédula:monto:recibo:tipo-de-cuenta:procesando:cambiar-a-bitcoin"/>
+    <file name="require.js" crc="4157109226" ref="clave:index:cédula:monto:recibo:tipo-de-cuenta:procesando:cambiar-a-bitcoin"/>
   </folder>
   <folder name="images">
-    <file name="u238-4.png" crc="4177637618" ref="clave"/>
-    <file name="u247-4.png" crc="3793653347" ref="clave"/>
-    <file name="u256-4.png" crc="4165294011" ref="clave"/>
-    <file name="u268-4.png" crc="503050841" ref="clave"/>
-    <file name="u241-4.png" crc="4213501607" ref="clave"/>
-    <file name="u250-4.png" crc="4146515420" ref="clave"/>
-    <file name="u259-4.png" crc="166998399" ref="clave"/>
-    <file name="u265-4.png" crc="323091761" ref="clave"/>
-    <file name="u244-4.png" crc="415725148" ref="clave"/>
-    <file name="u253-4.png" crc="3907199844" ref="clave"/>
-    <file name="u262-4.png" crc="4027749391" ref="clave"/>
-    <file name="u271-4.png" crc="155813575" ref="clave"/>
-    <file name="blank.gif" crc="4208392903" ref="clave:cédula:monto:recibo:tipo-de-cuenta"/>
+    <file name="movilpunto logo2.png" crc="3864502282" seo="true" ref="clave:index:cédula:monto:recibo:tipo-de-cuenta:procesando:cambiar-a-bitcoin">
+      <caption webpage="monto" alt=""/>
+      <caption webpage="tipo-de-cuenta" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="recibo" alt=""/>
+      <caption webpage="clave" alt=""/>
+      <caption webpage="procesando" alt=""/>
+      <caption webpage="cambiar-a-bitcoin" alt=""/>
+      <caption webpage="cédula" alt=""/>
+    </file>
+    <file name="u4167-4.png" crc="4150788093" ref="clave"/>
+    <file name="blank.gif" crc="4208392903" ref="clave:cédula:monto:recibo:tipo-de-cuenta:cambiar-a-bitcoin"/>
     <file name="u805.png" crc="3899691840" ref="clave"/>
     <file name="u805-a.png" crc="312853249" ref="clave"/>
     <file name="u844-4.png" crc="346263430" ref="clave"/>
     <file name="u870-4.png" crc="3907412132" ref="clave"/>
     <file name="u900-4.png" crc="4208856398" ref="clave"/>
+    <file name="u238-4.png" crc="4177637618" ref="clave"/>
+    <file name="u241-4.png" crc="4213501607" ref="clave"/>
+    <file name="u244-4.png" crc="415725148" ref="clave"/>
+    <file name="u247-4.png" crc="3793653347" ref="clave"/>
+    <file name="u250-4.png" crc="4146515420" ref="clave"/>
+    <file name="u253-4.png" crc="3907199844" ref="clave"/>
     <file name="u3765-4.png" crc="513021165" ref="clave"/>
     <file name="u3803-4.png" crc="513021165" ref="clave"/>
     <file name="u3835-4.png" crc="513021165" ref="clave"/>
     <file name="u3875-4.png" crc="513021165" ref="clave"/>
+    <file name="u256-4.png" crc="4165294011" ref="clave"/>
+    <file name="u259-4.png" crc="166998399" ref="clave"/>
+    <file name="u262-4.png" crc="4027749391" ref="clave"/>
+    <file name="u268-4.png" crc="503050841" ref="clave"/>
+    <file name="u265-4.png" crc="323091761" ref="clave"/>
+    <file name="u271-4.png" crc="155813575" ref="clave"/>
+    <file name="u4821-4.png" crc="3962726317" ref="index"/>
     <file name="u1985-4.png" crc="166021991" ref="index"/>
     <file name="u2001-4.png" crc="1143616" ref="index"/>
     <file name="u1997-4.png" crc="329571481" ref="index"/>
     <file name="u2007-4.png" crc="55270339" ref="index"/>
+    <file name="u4813-4.png" crc="74208917" ref="index"/>
     <file name="u2018-4.png" crc="170465337" ref="index"/>
     <file name="u2153.png" crc="3997040707" ref="cédula"/>
     <file name="u2153-a.png" crc="293044064" ref="cédula"/>
@@ -110,22 +124,31 @@
     <file name="u2665-4.png" crc="139068557" ref="tipo-de-cuenta"/>
     <file name="u3901-4.png" crc="4131577682" ref="tipo-de-cuenta"/>
     <file name="u3907-4.png" crc="336539991" ref="tipo-de-cuenta"/>
-    <file name="movilpunto logo2.png" crc="3864502282" seo="true" ref="clave:index:cédula:monto:recibo:tipo-de-cuenta:procesando">
-      <caption webpage="recibo" alt=""/>
-      <caption webpage="procesando" alt=""/>
-      <caption webpage="cédula" alt=""/>
-      <caption webpage="clave" alt=""/>
-      <caption webpage="tipo-de-cuenta" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="monto" alt=""/>
-    </file>
     <file name="u4154-4.png" crc="80152025" ref="procesando"/>
+    <file name="u4319.png" crc="4277705199" ref="cambiar-a-bitcoin"/>
+    <file name="u4319-a.png" crc="218896702" ref="cambiar-a-bitcoin"/>
+    <file name="u4561-4.png" crc="226722640" ref="cambiar-a-bitcoin"/>
+    <file name="u4564-4.png" crc="3933977660" ref="cambiar-a-bitcoin"/>
+    <file name="u4570-4.png" crc="3923298837" ref="cambiar-a-bitcoin"/>
+    <file name="u4695-4.png" crc="3990235559" ref="cambiar-a-bitcoin"/>
+    <file name="u4576-4.png" crc="107828279" ref="cambiar-a-bitcoin"/>
+    <file name="u4679-4.png" crc="3874613446" ref="cambiar-a-bitcoin"/>
+    <file name="u4593.png" crc="222423982" ref="cambiar-a-bitcoin"/>
+    <file name="u4593-a.png" crc="3947360833" ref="cambiar-a-bitcoin"/>
+    <file name="arrowmenudown.png" crc="262559161" ref="cambiar-a-bitcoin">
+      <caption webpage="cambiar-a-bitcoin" alt=""/>
+    </file>
+    <file name="u4630-4.png" crc="4185106292" ref="cambiar-a-bitcoin"/>
+    <file name="u4652-4.png" crc="472232874" ref="cambiar-a-bitcoin"/>
+    <file name="u4737-4.png" crc="4239390145" ref="cambiar-a-bitcoin"/>
+    <file name="u4809-4.png" crc="62716654" ref="cambiar-a-bitcoin"/>
   </folder>
-  <file name="index.html" crc="4250376887" seo="true" mt="1528572254251" redirect="true"/>
-  <file name="clave.html" crc="68542050" seo="true" mt="1528572254288" redirect="true"/>
-  <file name="cédula.html" crc="474465051" seo="true" mt="1528572254200" redirect="true"/>
+  <file name="clave.html" crc="4021480089" seo="true" mt="1528635887302" redirect="true"/>
+  <file name="index.html" crc="185591882" seo="true" mt="1528636085032" redirect="true"/>
+  <file name="cédula.html" crc="417687036" seo="true" mt="1528576280457" redirect="true"/>
   <file name="monto.html" crc="124769849" seo="true" mt="1528572254148" redirect="true"/>
   <file name="recibo.html" crc="3940456015" seo="true" mt="1528573449567" redirect="true"/>
   <file name="tipo-de-cuenta.html" crc="3928758597" seo="true" mt="1528572254013" redirect="true"/>
   <file name="procesando.html" crc="244407275" seo="true" mt="1528572253769" redirect="true"/>
+  <file name="cambiar-a-bitcoin.html" crc="484165152" seo="true" mt="1528636055908" redirect="true"/>
 </manifest>
